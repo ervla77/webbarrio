@@ -1,0 +1,17 @@
+.main__container-cards {
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+    width: 930px;
+    margin: 0 auto;
+}
+
+.container__activity {
+    display: flex;
+    gap: 15px;
+    width: 930px;
+    margin: 0 auto;
+}
+
+
+
